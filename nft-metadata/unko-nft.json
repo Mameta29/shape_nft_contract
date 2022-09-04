@@ -1,0 +1,20 @@
+{
+    "attributes": [
+        {
+            "type": "food",
+            "value": "main"
+        },
+        {
+            "type": "color",
+            "value": "yellow"
+        },
+        {
+            "type": "How much you like",
+            "value": "very"
+        }
+
+    ],
+    "description": "うんこ NFT",
+    "image": "ipfs://Qmd33qzNbsfjBpTjuYLmsgPaWbVXxV1M1J6RFZ2knZb259",
+    "name": "うんこ"
+}

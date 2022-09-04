@@ -1,0 +1,20 @@
+{
+    "attributes": [
+        {
+            "type": "food",
+            "value": "main"
+        },
+        {
+            "type": "color",
+            "value": "yellow"
+        },
+        {
+            "type": "How much you like",
+            "value": "very"
+        }
+
+    ],
+    "description": "First お好み焼き NFT",
+    "image": "ipfs://QmYPsz6a93apfC846NotBNJv1sBEwNCuvwZG7er7fGbuvL",
+    "name": "おっこのみやき"
+}

@@ -1,0 +1,20 @@
+{
+    "attributes": [
+        {
+            "type": "food",
+            "value": "main"
+        },
+        {
+            "type": "color",
+            "value": "yellow"
+        },
+        {
+            "type": "How much you like",
+            "value": "very"
+        }
+
+    ],
+    "description": "ろご NFT",
+    "image": "ipfs://QmQFVM4R81UdgYTiMTMsbVARxPiFbVgXDDExR7pSY6sWzS",
+    "name": "ろご"
+}
