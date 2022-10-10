@@ -8,8 +8,12 @@ module.exports = {
   solidity: '0.8.1',
   defaultNetwork: 'mumbai',
   networks: {
-    hardhat: {},
-    mumbai: {
+    // hardhat: {},
+    // mumbai: {
+    //   url: API_URL,
+    //   accounts: [`0x${PRIVATE_KEY}`],
+    // },
+    goerli: {
       url: API_URL,
       accounts: [`0x${PRIVATE_KEY}`],
     },

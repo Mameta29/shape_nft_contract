@@ -48,6 +48,13 @@ async function mintNFT(tokenURI) {
     });
 }
 
-const nft = 'QmbSnB513TajHTzWWzHoZz4NPraGSqYdQMGc9griwGkdJu';
+const nft = 'QmT5WKrcJHCPoxi2G9eieWvovofGxiShd9oNQ3o1hsu5nf';
+// const nft2 = 'QmT5WKrcJHCPoxi2G9eieWvovofGxiShd9oNQ3o1hsu5nf';
+// const nft3 = 'QmT5WKrcJHCPoxi2G9eieWvovofGxiShd9oNQ3o1hsu5nf';
+// const nft4 = 'QmT5WKrcJHCPoxi2G9eieWvovofGxiShd9oNQ3o1hsu5nf';
+// const nft5 = 'QmT5WKrcJHCPoxi2G9eieWvovofGxiShd9oNQ3o1hsu5nf';
+// const nft6 = 'QmT5WKrcJHCPoxi2G9eieWvovofGxiShd9oNQ3o1hsu5nf';
+// const nft7 = 'QmT5WKrcJHCPoxi2G9eieWvovofGxiShd9oNQ3o1hsu5nf';
+
 const tokenURI = 'ipfs://' + nft;
 mintNFT(tokenURI);

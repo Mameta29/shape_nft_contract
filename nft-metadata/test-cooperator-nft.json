@@ -1,0 +1,15 @@
+{ 
+    "name": "TEST CooperatorNFT",
+    "image": "ipfs://QmWFbRYkNmp3HMBJ71huCqsWPCTD9uk2afVov17m7WdpUn",
+    "description": "TEST first cooperator NFT",
+    "attributes": [
+        {
+            "type": "roll",
+            "value": "TEST first cooperator"
+        },
+        {
+            "type": "color",
+            "value": "TEST purple"
+        }
+    ]
+}

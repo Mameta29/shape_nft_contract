@@ -20,8 +20,8 @@ contract RegisterNFT is ERC721URIStorage, Ownable {
         _tokenIds.increment();
 
         uint256 newItemId = _tokenIds.current();
-        _mint(recipient, newItemId);
         _setTokenURI(newItemId, tokenURI);
+        _mint(recipient, newItemId);
 
         return newItemId;
     }
